@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Views](https://komarev.com/ghpvc/?username=Duskydream&label=Repo%20Views)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Duskydream&repo=ShepherdsBlog&show_owner=true&theme=radical)
