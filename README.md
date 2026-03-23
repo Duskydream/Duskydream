@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&theme=tokyonight" width="820px" />
+      [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </td>
   </tr>
 </table>
