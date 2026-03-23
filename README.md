@@ -1,16 +1,17 @@
 # Hi there, I'm Shepherd Meng 👋
 
-<table align="center">
+
+<table align="center" border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Duskydream&show_icons=true&theme=radical&hide_border=true" width="400px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Duskydream&show_icons=true&theme=tokyonight&hide_border=true" width="400px" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duskydream&layout=compact&theme=radical&hide_border=true" width="400px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duskydream&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&bg_color=1a1b27&color=ff79c6&line=79dafa&point=ff79c6&area=true&hide_border=true&v=2" width="820px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&theme=tokyonight&area=true&hide_border=true&v=3" width="820px" />
 </p>
