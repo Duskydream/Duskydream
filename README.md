@@ -16,6 +16,17 @@
 </p>
 
 <p align="center">
-  <img src=(https://github-profile-trophy.vercel.app/?username=Duskydream)](https://github.com/ryo-ma/github-profile-trophy) />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <!-- Astro -->
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <!-- Markdown -->
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Duskydream" alt="Duskydream's Trophy" />
+  </a>
 </p>
 
