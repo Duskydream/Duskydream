@@ -12,5 +12,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&theme=radical&area=true&hide_border=true" width="820px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&bg_color=1a1b27&color=ff79c6&line=79dafa&point=ff79c6&area=true&hide_border=true&v=2" width="820px" />
 </p>
