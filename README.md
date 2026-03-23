@@ -1,6 +1,5 @@
 # Hi there, I'm Shepherd Meng 👋
 
-
 <table align="center" border="0">
   <tr>
     <td align="center">
@@ -13,5 +12,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&theme=tokyonight&area=true&hide_border=true&v=3" width="820px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=final_version_001" width="820px" />
 </p>
