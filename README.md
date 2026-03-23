@@ -23,6 +23,3 @@
   <!-- Markdown -->
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Duskydream)
-
