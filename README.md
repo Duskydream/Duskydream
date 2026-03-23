@@ -24,9 +24,5 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Duskydream&theme=radical" />
-  </a>
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Duskydream)
 
