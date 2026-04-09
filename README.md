@@ -1,25 +1,37 @@
-# Hi there, I'm Shepherd Meng 👋
+## 🎉Hey there, I'm Shepherd Meng!
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=それでも空は酷く青いんだから;それはきっと魔法だから&font=Fira+Code&center=false&width=440&height=45&color=004F8B&vCenter=true)
 
-<table align="center" border="0">
+<div align="center">
+  <img src="background.png" alt="centered image" width="300"/>
+</div>
+
+## 🎨ME
+- 👻 **个人博客**:[www.duskydream.icu](https://www.duskydream.icu)
+- 💬 **联系方式**: QQ: 2831496575 | 📧 [Mail](mailto:lxzm1211@outlook.com)
+- 🛠️ **Tech Stack**: 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+## 📈 GitHub Activity Graph:
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Duskydream&show_icons=true&theme=tokyonight&hide_border=true" width="400px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duskydream&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
-    </td>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=Duskydream&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=Duskydream&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=5" align="center" /> 
+    </th>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=final_version_001" width="820px" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duskydream&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Duskydream's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</div>
 
-<p align="center">
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <!-- Astro -->
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <!-- Markdown -->
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
+## 🧑‍🤝‍🧑 Visitors
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@:Duskydream" alt="Duskydream Visitors" />
+</div>
