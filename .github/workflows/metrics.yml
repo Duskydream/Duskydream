@@ -1,11 +1,8 @@
 name: Metrics
 on:
-  # 每天凌晨自动更新一次数据
   schedule:
     - cron: "0 0 * * *"
-  # 允许你手动点击按钮更新
   workflow_dispatch:
-  # 每次你修改 README.md 时也会更新
   push:
     branches:
       - main
@@ -18,15 +15,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 你自己的 GitHub Token
           token: ${{ secrets.GITHUB_TOKEN }}
-          # 要统计的用户名
           user: Duskydream
-          # 基础模板
           template: classic
-          # 基础设置
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          # 你可以开启各种插件（把前面的注释去掉即可）
-          plugin_isocalendar: yes
+          
+          plugin_calendar: yes
+          plugin_calendar_limit: 2
           plugin_languages: yes
