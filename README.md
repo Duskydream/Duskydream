@@ -15,7 +15,7 @@ I'm a developer currently learning CS and exploring Machine Learning, Deep Learn
 
 You can reach me here:  
 
-- 👻 **Blog**: [www.duskydream.icu](https://www.duskydream.icu)
+- 👻 **Blog**: [www.duskydream.icu](https://www.lxzm.space)
 
 - 💬 **QQ**: 2831496575
 
