@@ -18,10 +18,6 @@ You can reach me here:
 
 - 📧 **Mail**: [lxzm1211@outlook.com](mailto:lxzm1211@outlook.com)
 
-**Tech Stack:**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-
 <br clear="both">
 <br>
 
