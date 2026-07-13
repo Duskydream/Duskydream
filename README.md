@@ -1,6 +1,5 @@
 # 🎉 Hey there, I'm Shepherd Meng!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=それでも空は酷く青いんだから;それはきっと魔法だから&font=Fira+Code&center=false&width=440&height=45&color=0071C7&vCenter=true)
 
 <picture>
   <img align="right" width="50%" src="background.png" alt="Profile Image">
@@ -8,8 +7,6 @@
 
 <br>
 Also known as Duskydream.  
-
-Personality type: INFJ-T.  
 
 I'm a developer currently learning CS and exploring Machine Learning, Deep Learning, and AI Agents.  
 
