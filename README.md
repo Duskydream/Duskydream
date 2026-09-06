@@ -1,10 +1,5 @@
 # 🎉 Hey there, I'm Shepherd Meng!
 
-
-<picture>
-  <img align="right" width="50%" src="background.png" alt="Profile Image">
-</picture>
-
 <br>
 Also known as Duskydream.  
 
